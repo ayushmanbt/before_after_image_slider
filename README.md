@@ -4,6 +4,10 @@ Before and after image slider is a common element seen in a lot of webpages. Thi
 
 Final result -
 
+![Result](./assets/result.gif)
+
+
+
 ### Next Actions
 
 - [ ] Make this work with any width and height image (The only assurance we will need is to have both the images have the same aspect ratio)
