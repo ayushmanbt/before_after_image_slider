@@ -6,5 +6,5 @@ Final result -
 
 ### Next Actions
 
--[ ] Make this work with any width and height image (The only assurance we will need is to have both the images have the same aspect ratio)
--[ ] Add comments to make things more understandble
+- [ ] Make this work with any width and height image (The only assurance we will need is to have both the images have the same aspect ratio)
+- [ ] Add comments to make things more understandble
