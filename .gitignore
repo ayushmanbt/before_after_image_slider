@@ -1,0 +1,6 @@
+# ignore all code editor files
+/.fleet 
+/.idea 
+/.nova 
+/.vscode 
+/.zed
