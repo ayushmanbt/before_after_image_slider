@@ -12,3 +12,12 @@ Final result -
 
 - [ ] Make this work with any width and height image (The only assurance we will need is to have both the images have the same aspect ratio)
 - [ ] Add comments to make things more understandble
+
+
+### Related good to read
+
+As I am a professor now I need to explain studetns what is important to learn from this repository -
+
+1. **Clip Path** - https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
+
+2. **Mousemove event:** https://developer.mozilla.org/en-US/docs/Web/API/Element/mousemove_event
